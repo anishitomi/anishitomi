@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Andrew Nishitomi 
-- 👀 I’m interested in Criminal Justice and working in Data Science
-- 🌱 I’m currently a Criminal Justice and Data Science, Analytics, and Vizualization with a Minor in Forensic Science
-- 💞️ I’m looking to collaborate on a project with Criminal Justice reform with smaller countries
-- 📫 How to reach me is andrewnishitomi808@gmail.com
+- Hi, I’m Andrew Nishitomi 
+- I am currently Student at Chaminade Univeristy of Honolulu
+- I am studying Criminal Justice and Data Science, Analytics, and Vizualization with a Minor in Forensic Science 
+- How to reach me is andrewnishitomi808@gmail.com or andrew.nishitomi@student.chaminade.edu
 
 <!---
 anishitomi/anishitomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
