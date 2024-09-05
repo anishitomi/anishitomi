@@ -1,6 +1,5 @@
 - Hi, I’m Andrew Nishitomi 
-- I am currently a Student at Chaminade Univeristy of Honolulu
-- I am studying Criminal Justice and Data Science, Analytics, and Vizualization
+- I am currently a Student at Chaminade Univeristy of Honolulu studying Criminal Justice and Data Science, Analytics, and Vizualization 
 - You can reach me at andrew.nishitomi@student.chaminade.edu
 
 <!---
