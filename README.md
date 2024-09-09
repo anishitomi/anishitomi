@@ -13,8 +13,6 @@
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <img align="left" alt="tacc" width="100px" style="padding-right:10px;" src="https://www.tdl.org/wp-content/uploads/2010/02/TACC_logo.png" />
-<img align="left" alt="ps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img align="left" alt="davinci" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" />
 <br />
 
 
