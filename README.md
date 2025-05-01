@@ -1,5 +1,5 @@
 - Hi, I’m Andrew Nishitomi 
-- I will soon to be graduated from Chaminade Univeristy of Honolulu with a dual degree Criminal Justice/Criminology and Data Science
+- I am a graduate from Chaminade Univeristy of Honolulu with a dual degree Criminal Justice/Criminology and Data Science
 - You can reach me at andrew.nishitomi@student.chaminade.edu
 
 
